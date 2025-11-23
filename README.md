@@ -29,11 +29,11 @@ Note: Keep all the switch faults in off position
 ```
 import numpy as np
 import matplotlib.pyplot as plt
-Am = 7.1     
-Ac = 14.2   
-fm = 637   
-fc = 6370    
-fs = 63700   
+Am = 6.4     
+Ac = 12.8   
+fm = 590   
+fc = 5900   
+fs = 59000   
 t = np.arange(0, 2/fm, 1/fs)
 m = Am * np.cos(2 * np.pi * fm * t)
 plt.subplot(3, 1, 1)
@@ -50,7 +50,8 @@ plt.tight_layout()
 plt.show()
 ```
 <h3>Output Graph</h3>
-<img width="1536" height="898" alt="Figure_2" src="https://github.com/user-attachments/assets/9c8ff958-bc58-4704-805c-ae55ef51bb90" />
+<img width="1536" height="898" alt="DSBSC_PY" src="https://github.com/user-attachments/assets/6011556d-87f9-4a53-80d2-dd03a0c313ae" />
+
 
 
 <h3>Result:</h3>
