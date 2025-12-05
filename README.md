@@ -53,6 +53,9 @@ plt.show()
 <img width="1536" height="898" alt="DSBSC_PY" src="https://github.com/user-attachments/assets/6011556d-87f9-4a53-80d2-dd03a0c313ae" />
 
 
+<h3>Tabulation:</h3>
+
+![WhatsApp Image 2025-12-05 at 11 42 52_d6ee8252](https://github.com/user-attachments/assets/1fc0491c-ee0a-4c4c-84b2-0c5b89d29196)
 
 <h3>Result:</h3>
 Thus the DSB-SC-AM Modulation and Demodulation using python is generated.
